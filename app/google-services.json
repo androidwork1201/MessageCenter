@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406025390329",
+    "project_id": "messagecenter-99ace",
+    "storage_bucket": "messagecenter-99ace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406025390329:android:eaedf53cd7f26bd0b3fa28",
+        "android_client_info": {
+          "package_name": "com.example.messagecenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406025390329-v3cf6gd59fdi7cih814g4f21mle29v0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdt-wc_1GRQgNbU8YK1b-4Q557iU4zjmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406025390329-v3cf6gd59fdi7cih814g4f21mle29v0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
